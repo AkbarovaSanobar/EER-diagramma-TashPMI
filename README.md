@@ -1,2 +1,2 @@
 # EER-diagramma-TashPMI
-qisqa variant
+1-часть (part), продолжение следует
